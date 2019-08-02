@@ -1,0 +1,3 @@
+/dist
+*.pypirc
+/paradox_commons.egg-info
